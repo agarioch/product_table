@@ -3,3 +3,4 @@ Simple table of products - with ability to search and filter. Built to get famil
 
 Working through the thinking in react exercise https://reactjs.org/docs/thinking-in-react.html
 
+Deployed to github pages https://agarioch.github.io/product_table/

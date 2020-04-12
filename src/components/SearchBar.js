@@ -16,7 +16,7 @@ export default function SearchBar({ filterText, inStockOnly, onCheck, onInput })
             </div>
             <div className="form-check mt-3">
                 <input type="checkbox" name="inStock" className="form-check-input mr-3" value={inStockOnly} onChange={handleCheck} />
-                <label className="form-check-label" for="inStock">Only show products in stock</label>
+                <label className="form-check-label">Only show products in stock</label>
             </div>
         </form>
     )

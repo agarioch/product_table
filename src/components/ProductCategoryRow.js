@@ -5,7 +5,7 @@ export default class ProductCategoryRow extends Component {
         const category = this.props.category;
         return (
             <tr className="h6">
-                <td colSpan="2">
+                <td colSpan="3">
                     {category}
                 </td>
             </tr>
